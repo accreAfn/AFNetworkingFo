@@ -1,6 +1,6 @@
 # AFNetworking is Deprecated
 
-As of Jan. 17, 2023, AFNetworking is deprecated and there will be no further releases. This repo will remain online in perpetuity as an archive. There are a couple options for continued AFNetworking use:
+As of Jan. 17, 2023, AFNetworking is deprecated and there will be no further releases. This repo will remain online in perpetuity as an archive. There are a couple options for continued AFNetworking use:123
 
 1. Copy AFNetworking into your project and compile it directly. This gives you full control over the code.
 2. Fork AFNetworking and use the fork in your dependency manager. There will be no official forks but anyone can fork at any time and can even publish those forks under a different name, in accordance with AFNetworking's license.
